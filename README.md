@@ -1,2 +1,3 @@
-This repository handles all my python projects
+This repository handles all my python projects.
+
 
