@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 multiply_by_2 = __import__('multiply_by_2').multiply_by_2
 print_sorted_dictionary = \
     __import__('print_sorted_dictionary').print_sorted_dictionary
